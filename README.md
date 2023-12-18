@@ -6,3 +6,6 @@ Leetcode Solution:
 - 21. Merge two sort linked list: https://leetcode.com/problems/merge-two-sorted-lists
 - 242. Valid Anagram: https://leetcode.com/problems/valid-anagram/description
 - 1913. Maximum Product Difference Between Two Pairs: https://leetcode.com/problems/maximum-product-difference-between-two-pairs
+
+3. Hard:
+- 4. Median of Two Sorted Arrays: https://leetcode.com/problems/median-of-two-sorted-arrays/description/
