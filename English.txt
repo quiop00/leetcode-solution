@@ -1,0 +1,32 @@
+Plan study english:
+I. Speaking
+A. Topic 1: Interview
+- Can you introduce yourself
+- Talk about your working experience
+- Why did you entire your work
+- Talk your responsibility in each project 
+- Talk about the process working
+
+- Can you talk about OOP principles (detail)
+- Compare override & overload
+- Compare abstract and interface
+- Access modifier
+- static and final
+- List, Set, Map: detail & compare
+- Collections & Collection
+- Linked List
+- Stack & Queue
+- Heap & Stack Memory
+- hashCode and equals
+- Stream
+- Gabarge collection
+
+- Join
+- Union
+- Group, Having
+- Procedure
+- Trigger
+- Index
+
+- Kafka, Message Queue
+- Git flow/Jira
