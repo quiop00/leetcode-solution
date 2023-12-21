@@ -11,6 +11,7 @@ Leetcode Solution:
 
 2. Medium:
 - 5.Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/description/
+- 1637. Widest Vertical Area Between Two Points Containing No Points: https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description
 
 3. Hard:
 - 4.Median of Two Sorted Arrays: https://leetcode.com/problems/median-of-two-sorted-arrays/description/
