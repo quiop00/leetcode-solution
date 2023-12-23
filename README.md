@@ -8,6 +8,7 @@ Leetcode Solution:
 - 35.Search Insert Position: https://leetcode.com/problems/search-insert-position/submissions/
 - 242.Valid Anagram: https://leetcode.com/problems/valid-anagram/description
 - 1422.Maximum Score After Splitting a String: https://leetcode.com/problems/maximum-score-after-splitting-a-string/description
+- 1496.Path Crossing: https://leetcode.com/problems/path-crossing/
 - 1913.Maximum Product Difference Between Two Pairs: https://leetcode.com/problems/maximum-product-difference-between-two-pairs
 - 2706.Buy Two Chocolates: https://leetcode.com/problems/buy-two-chocolates/description
 
