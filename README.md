@@ -9,6 +9,7 @@ Leetcode Solution:
 - 242.Valid Anagram: https://leetcode.com/problems/valid-anagram/description
 - 1422.Maximum Score After Splitting a String: https://leetcode.com/problems/maximum-score-after-splitting-a-string/description
 - 1496.Path Crossing: https://leetcode.com/problems/path-crossing/
+- 1758.Minimum Changes To Make Alternating Binary String: https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string
 - 1913.Maximum Product Difference Between Two Pairs: https://leetcode.com/problems/maximum-product-difference-between-two-pairs
 - 2706.Buy Two Chocolates: https://leetcode.com/problems/buy-two-chocolates/description
 
