@@ -17,6 +17,7 @@ Leetcode Solution:
 - 5.Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/description/
 - 6.Zigzag Conversion: https://leetcode.com/problems/zigzag-conversion/description/
 - 7.Reverse Integer: https://leetcode.com/problems/reverse-integer/
+- 91.Decode Ways: https://leetcode.com/problems/decode-ways/description
 - 1637.Widest Vertical Area Between Two Points Containing No Points: https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description
 
 3. Hard:
