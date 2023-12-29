@@ -22,3 +22,5 @@ Leetcode Solution:
 
 3. Hard:
 - 4.Median of Two Sorted Arrays: https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+- 1335.Minimum Difficulty of a Job Schedule
+- 1531.Length Of Optimal Compression

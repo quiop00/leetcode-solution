@@ -21,7 +21,6 @@ function getLengthOfOptimalCompression(s, k) {
             dp[i][j] = (j > 0) ? dp[i + 1][j - 1] : Number.MAX_SAFE_INTEGER;
 
             // Case 2 - we keep the ith index.
-            // We have to find the current char's index endpoint
             let possible_del = j, count = 0;
             for (let end = i; end < n && possible_del >= 0; end++) {
                 // Check about the same char "b b b .." for encoding
