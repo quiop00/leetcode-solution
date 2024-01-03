@@ -6,6 +6,7 @@ Leetcode Solution:
 - 21.Merge two sort linked list: https://leetcode.com/problems/merge-two-sorted-lists
 - 28.Find the Index of the First Occurrence in a String: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
 - 35.Search Insert Position: https://leetcode.com/problems/search-insert-position/submissions/
+- 58.Length of Last Word: https://leetcode.com/problems/length-of-last-word/
 - 242.Valid Anagram: https://leetcode.com/problems/valid-anagram/description
 - 455.Assign Cookies: https://leetcode.com/problems/assign-cookies/description
 - 1422.Maximum Score After Splitting a String: https://leetcode.com/problems/maximum-score-after-splitting-a-string/description
