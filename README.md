@@ -22,6 +22,7 @@ Leetcode Solution:
 - 7.Reverse Integer: https://leetcode.com/problems/reverse-integer/
 - 91.Decode Ways: https://leetcode.com/problems/decode-ways/description
 - 1637.Widest Vertical Area Between Two Points Containing No Points: https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description
+- 2125.Number of Laser Beams in a Bank: https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description
 - 2601.Convert an Array Into a 2D Array With Conditions: https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions
 
 3. Hard:
