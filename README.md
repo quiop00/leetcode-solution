@@ -25,6 +25,7 @@ Leetcode Solution:
 - 1637.Widest Vertical Area Between Two Points Containing No Points: https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description
 - 2125.Number of Laser Beams in a Bank: https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description
 - 2601.Convert an Array Into a 2D Array With Conditions: https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions
+- 2870.Minimum Number of Operations to Make Array Empty: https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description
 
 3. Hard:
 - 4.Median of Two Sorted Arrays: https://leetcode.com/problems/median-of-two-sorted-arrays/description/
