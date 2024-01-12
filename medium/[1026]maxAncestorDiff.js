@@ -13,11 +13,9 @@ var maxAncestorDiff = function(root) {
             
             return;
         }
-
         const { val, left, right } = node;
 
         if (val > max) max = val;
-
         if (val < min) min = val;
 
         traverse(left, max, min);
