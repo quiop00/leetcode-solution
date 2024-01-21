@@ -7,8 +7,9 @@ var rob = function (nums) {
     const res = new Array(nums.length + 1).fill(0);
     res[1] = nums[0];
     for (let i = 1; i < nums.length; i++) {
-        res[i+1] = Math.max();
+        res[i+1] = Math.max(res[i-1] + nums[i], res[i]);
     }
+    return res[nums.length];
 };
 
 console.log(rob([1, 2, 3, 1]));
